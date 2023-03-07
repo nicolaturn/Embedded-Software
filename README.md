@@ -28,3 +28,8 @@ when an NFC chip is detected, the reader sends an authentication request to the 
 - when the chip number already exists, the system stores a new access and performs operations on it
 - when the chip number does not exist, the system detects that it has never been authenticated and returns a warning
 the web service is responsible for storing, organizing and creating the access overviews of each NFC card
+# Project Video
+[video](https://github.com/elgabe01/Embedded-Software/edit/main/README.md)
+# Team
+Gabriele Fasoli
+Nicola Turniano
