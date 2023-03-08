@@ -48,13 +48,12 @@ The entire project is composed by various parts:
   - association/dissociation cards
 -database.php (page not used by the user):
   - storage of the last card read;
-
-
-/////tabelle database
-
+# DataBase relations
+![diagramma](diagramma.jpg)
 # Project Video and Presentation
 [video](https://github.com/elgabe01/Embedded-Software/edit/main/README.md)
 
 # Team
 Gabriele Fasoli
+
 Nicola Turniano
