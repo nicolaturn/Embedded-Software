@@ -28,6 +28,8 @@ the system is designed to recognize the accesses of different NFC cards, memoriz
 All operations can be viewed on a web page.
 the web service is responsible for storing, organizing and creating the access overviews of each NFC card.
 
+![flow](sistemaEmbedded.png)
+
 The entire project is composed by various parts:
 - arduino code:
   - connect to WiFi;
@@ -46,7 +48,7 @@ The entire project is composed by various parts:
   - ESP532 connections;
   - cards reading;
   - association/dissociation cards
--database.php (page not used by the user):
+- database.php (page not used by the user):
   - storage of the last card read;
 # DataBase relations
 ![diagramma](diagramma.jpg)
