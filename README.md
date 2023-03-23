@@ -40,8 +40,9 @@ The goal of this project is to design and program a system that simulates a ski 
 │       ├── esp32.svd
 │       └── skipass.ino
 ├── README.md
+├── Embedded Software.pdf
 ├── diagramma.jpg
-└── diagramma.png
+└── sistemaEmbedded.png
 ```
 
 
