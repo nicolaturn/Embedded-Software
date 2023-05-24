@@ -1,5 +1,10 @@
 # Super Ski
 The goal of this project is to design and program a system that simulates a ski area with NFC cards or tags as skipass. The overview of the season is accessible via web, and shows all the performances related to that skipass. 
+
+
+[Project video](https://drive.google.com/file/d/1-N1KBqDRInrKE4cuiXDRr68DaXGG01-c/view?usp=sharing)
+[Project Presentation](https://drive.google.com/file/d/1POJkp52c55bXDivYHN9JBoa7oEpq8Kii/view?usp=share_link)
+
 # Components
 ## Hardware Components
 - ESP-32;
@@ -76,8 +81,7 @@ The entire project is composed by various parts:
   - Storage of the last card read;
 # DataBase relations
 ![diagramma](diagramma.jpg)
-# Project Video
-[video](https://github.com/elgabe01/Embedded-Software/edit/main/README.md)
+
 
 # Team
 Gabriele Fasoli - Nicola Turniano
