@@ -3,6 +3,7 @@ The goal of this project is to design and program a system that simulates a ski 
 
 
 [Project video](https://drive.google.com/file/d/1-N1KBqDRInrKE4cuiXDRr68DaXGG01-c/view?usp=sharing)
+
 [Project Presentation](https://drive.google.com/file/d/1POJkp52c55bXDivYHN9JBoa7oEpq8Kii/view?usp=share_link)
 
 # Components
