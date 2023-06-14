@@ -30,7 +30,7 @@ The goal of this project is to design and program a system that simulates a ski 
 EMBEDDED_PROJECT
 ├── README.md
 ├── code
-│   ├── arduino
+│   ├── esp
 │   │   ├── debug.cfg
 │   │   ├── debug_custom.json
 │   │   ├── esp32.svd
