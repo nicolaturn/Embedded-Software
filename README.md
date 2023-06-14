@@ -27,28 +27,30 @@ The goal of this project is to design and program a system that simulates a ski 
 - Include libraries for the communication with NFC device and WiFi (WiFi.h, HTTPClient.h, PN532_HSU.h, PN532.h);
 - Import web pages and database on server;
 ```bash
-├── EMBEDDED_PROJECT
-│   ├── amm.php
-│   ├── ammbis.php
-│   ├── cover.css
-│   ├── dashboard.css
-│   ├── dashboard.js
-│   ├── dashboard.php
-│   ├── dashboard.rtl.css
-│   ├── database.php
-│   ├── index.php
-│   ├── login.php
-│   ├── mg.jpg
-│   ├── signin.css
-│   └── skipass
-│       ├── debug.cfg
-│       ├── debug_custom.json
-│       ├── esp32.svd
-│       └── skipass.ino
+EMBEDDED_PROJECT
 ├── README.md
-├── Embedded Software.pdf
+├── code
+│   ├── esp
+│   │   ├── debug.cfg
+│   │   ├── debug_custom.json
+│   │   ├── esp32.svd
+│   │   └── skipass.ino
+│   └── web
+│       ├── amm.php
+│       ├── ammbis.php
+│       ├── cover.css
+│       ├── dashboard.css
+│       ├── dashboard.js
+│       ├── dashboard.php
+│       ├── dashboard.rtl.css
+│       ├── database.php
+│       ├── index.php
+│       ├── login.php
+│       ├── mg.jpg
+│       └── signin.css
 ├── diagramma.jpg
 └── sistemaEmbedded.png
+
 ```
 
 
